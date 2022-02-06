@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.edit-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.delete-icon {
+  width: 20px;
+  height: 20px;
+  color: red;
+}
+
+.user-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: left;
+}
+
+.active {
+  background-color: #cbd5e1;
+}
